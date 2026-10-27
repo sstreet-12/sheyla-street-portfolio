@@ -18,7 +18,6 @@ All the things - obviously. Here is a list of learning goals:
 
 1. Have process for selecting visualization type for different scenarios. 
 2. Improve design skills. 
-3. 
 
 or...
 
