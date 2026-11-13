@@ -50,6 +50,9 @@ var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<iframe src="https://public.tableau.com/views/MakeoverMonday_Final/Dashboard1?:showVizHome=no&:embed=true"
+  width="100%" height="850" style="border:none;"></iframe>
+  
 ## References
 _https://makeovermonday.vercel.app/dataset/2023w17_
 
