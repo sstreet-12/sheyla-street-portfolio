@@ -71,8 +71,8 @@ Because BGSO's internal records are stored privately and contain member informat
 
 | Name | URL | Description |
 |------|-----|-------------|
-| BGSO Resource Map data (recreated) | [bgso_resource_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/bgso_resource_map.csv) | People, offices, trainings, and partner orgs new BGSO leaders should connect with, in order |
-| BGSO Money Map data (recreated) | [bgso_money_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/bgso_money_map.csv) | 2026–27 income sources and expenses, including the Giving Day goal |
+| BGSO Resource Map data (recreated) | [bgso_resource_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/Data/bgso_resource_map.csv) | People, offices, trainings, and partner orgs new BGSO leaders should connect with, in order |
+| BGSO Money Map data (recreated) | [bgso_money_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/Data/bgso_money_map.csv) | 2026–27 income sources and expenses, including the Giving Day goal |
 | Data README | [README.md](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/README.md) | Explains why the data is recreated and defines every column |
 | SIT Forms and Meeting Requests | [cmu.edu/student-affairs/sit](https://www.cmu.edu/student-affairs/sit/student-org-resources/forms.html#finance) | Finance forms and meeting requests for student orgs |
 | JFC Funding (Student Government) | [cmu.edu/stugov/sbvpf/funding](https://www.cmu.edu/stugov/sbvpf/funding.html) | JFC funding tiers and process |
@@ -81,8 +81,6 @@ Because BGSO's internal records are stored privately and contain member informat
 
 # Method and medium
 I will build this project in three stages. First, I compiled BGSO's internal records and public CMU sources into two structured tables (one for the resource map, one for the money map). Second, I digitally sketched the visualizations to make them feel approachable and personal for incoming BGSO leaders: a "yellow brick road" resource map showing who to connect with and in what order, and a Sankey-style "money map" showing how funding flows into BGSO and out to events. Third, I will refine these sketches based on feedback and combine them into a final data story in [tool ex: Shorthand], published through this GitHub portfolio. The final audience is future BGSO officers, so the story will double as an onboarding guide they can return to.
-
-Text here...
 
 ## References
 _Data references listed under Data Secion._
