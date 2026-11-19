@@ -19,10 +19,25 @@ Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
+> **Note on data access:** I discussed using BGSO's internal records for this project with Professor Goranson in advance and he approved. Because those records include member information and personal contact details, the original files stay private. Recreated, public versions of both datasets are linked in the table below.
 Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+This project draws on three kinds of data. The first is public Carnegie Mellon University resources. These include the Office of Student Involvement and Traditions (SIT) Forms and Meeting Requests page, which lists the finance forms, meeting requests, management forms student organizations use. They also include the Student Government Director of Finance and Joint Funding Committee (JFC) pages, which explain the tiered funding process, the Common Funding Application, and historical organization budgets. The second kind is BGSO's internal records, kept in the BGSO Google Drive and on my laptop: transition notes, meeting minutes, advisor and partner contact lists, event records, and budget/reimbursement records. The third is Tartan Connect, CMU's student organization platform. BGSO's roster and past event data (turnout, date, ticket cost) lives there, and officers complete REACH and Authorized Signer training through it. I added firsthand knowledge from my meetings with advisors and campus offices as BGSO president.
+
+I combined these sources into two structured tables. The resource table has one row per person, office, training, or partner organization, with its step number, role, affiliation, category, and source. Rows with steps 1-5 are gold stars along the "brick road" of the resource map, and peer organizations are the network hub at the end of the path. The budget table has one row per income source or expense, with its amount, status (confirmed, spent, or pending), and month. It drives the money map, which shows how funding from JFC, CMBAA, General Motors, Fidelity Charity Fund, and Giving Day donors flows into BGSO's budget and out to events. I used the public JFC and SIT pages to check and annotate the funding-related steps.
+
+Because BGSO's internal records are stored privately and contain member information and personal contact details, I am not posting the raw files. Instead, I made recreated versions of both datasets that keep only public-facing role and budget information. They are linked below, and the README explains each field.
+
+| Name | URL | Description |
+|------|-----|-------------|
+| BGSO Resource Map data (recreated) | [bgso_resource_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/bgso_resource_map.csv) | People, offices, trainings, and partner orgs new BGSO leaders should connect with, in order |
+| BGSO Money Map data (recreated) | [bgso_money_map.csv](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/bgso_money_map.csv) | 2026–27 income sources and expenses, including the Giving Day goal |
+| Data README | [README.md](https://github.com/sstreet-12/sheyla-street-portfolio/blob/main/data/README.md) | Explains why the data is recreated and defines every column |
+| SIT Forms and Meeting Requests | [cmu.edu/student-affairs/sit](https://www.cmu.edu/student-affairs/sit/student-org-resources/forms.html#finance) | Finance forms and meeting requests for student orgs |
+| JFC Funding (Student Government) | [cmu.edu/stugov/sbvpf/funding](https://www.cmu.edu/stugov/sbvpf/funding.html) | JFC funding tiers and process |
+| CMU Common Data Set | [cmu.edu/ira](https://www.cmu.edu/ira/) | Graduate enrollment by race and ethnicity |
+
+> A link to the publicly-accessible datasets you plan on using, or a link to a copy the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
