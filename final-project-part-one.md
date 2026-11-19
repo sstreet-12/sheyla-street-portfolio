@@ -13,14 +13,19 @@ Text here...
 Text here...
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+Resource Map Sketch: 
+ <img width="418" height="311" alt="image" src="https://github.com/user-attachments/assets/33369766-301a-4841-b12d-57390a5eec92" />
+ 
+Money Map Sketch
+ <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ff3d6701-63bd-48ba-9a9d-38b59c38d198" />
+
+
 
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 > **Note on data access:** I discussed using BGSO's internal records for this project with Professor Goranson in advance and he approved. Because those records include member information and personal contact details, the original files stay private. Recreated, public versions of both datasets are linked in the table below.
-Text here...
 
 This project draws on three kinds of data. The first is public Carnegie Mellon University resources. These include the Office of Student Involvement and Traditions (SIT) Forms and Meeting Requests page, which lists the finance forms, meeting requests, management forms student organizations use. They also include the Student Government Director of Finance and Joint Funding Committee (JFC) pages, which explain the tiered funding process, the Common Funding Application, and historical organization budgets. The second kind is BGSO's internal records, kept in the BGSO Google Drive and on my laptop: transition notes, meeting minutes, advisor and partner contact lists, event records, and budget/reimbursement records. The third is Tartan Connect, CMU's student organization platform. BGSO's roster and past event data (turnout, date, ticket cost) lives there, and officers complete REACH and Authorized Signer training through it. I added firsthand knowledge from my meetings with advisors and campus offices as BGSO president.
 
@@ -37,17 +42,8 @@ Because BGSO's internal records are stored privately and contain member informat
 | JFC Funding (Student Government) | [cmu.edu/stugov/sbvpf/funding](https://www.cmu.edu/stugov/sbvpf/funding.html) | JFC funding tiers and process |
 | CMU Common Data Set | [cmu.edu/ira](https://www.cmu.edu/ira/) | Graduate enrollment by race and ethnicity |
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project.
-
 I will build this project in three stages. First, I compiled BGSO's internal records and public CMU sources into two structured tables (one for the resource map, one for the money map). Second, I digitally sketched the visualizations to make them feel approachable and personal for incoming BGSO leaders: a "yellow brick road" resource map showing who to connect with and in what order, and a Sankey-style "money map" showing how funding flows into BGSO and out to events. Third, I will refine these sketches based on feedback and combine them into a final data story in [tool ex: Shorthand], published through this GitHub portfolio. The final audience is future BGSO officers, so the story will double as an onboarding guide they can return to.
 
 Text here...
