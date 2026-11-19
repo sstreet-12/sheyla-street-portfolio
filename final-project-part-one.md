@@ -4,13 +4,54 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+## Summary
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The Black Graduate Student Organization (BGSO) at Carnegie Mellon only exists as long as students are willing to lead it. In spring 2026, it almost didn't. The outgoing E-Board was disjointed, all of its members were graduating, and no election had been held to choose new leaders. When I asked about the organization's future, the outgoing president told me, *"BGSO will exist if you don't want to take leadership, but just in a different form."* In other words, it might not exist at all. I stepped up as president out of a sense of duty, which meant recruiting an entire E-Board on my own over the summer, on short notice, with no handoff and no map of who to talk to or where the money comes from.
 
-Text here...
+I don't think students were unwilling to lead. I think they were hesitant because of when they were asked (April, right before the end of the year) and because of the unknown: there was no shadowing, no gradual takeover, and no guide to what the job involves. This project aims to remove those obstacles for the next E-Board. Using BGSO's internal records and public CMU resources, I will show three things: **who** a new leader needs to know and in what order (the Resource Map), **how** BGSO is funded and how that money is spent (the Money Map), and **when** each step of a planned leadership transition should happen (the Transition Timeline). The goal is for the 2027–28 E-Board to step into the role informed and supported, so BGSO never comes this close to disappearing again.
+
+**One-sentence summary:** Without student leadership there is no BGSO, so this project maps the people, money, and timeline a new E-Board needs to make leadership feel possible instead of overwhelming.
+
+**User stories**
+- As an *incoming BGSO officer*, I want to know who to meet first and why, so I'm not starting from zero.
+- As an *incoming treasurer*, I want to see where our funding comes from and how it has been spent, so I can plan events and requests with confidence.
+- As a *BGSO member considering running*, I want to see what the transition involves and when, so the role feels doable before I commit.
+- As an *advisor or sponsor*, I want to see how BGSO uses its funding, so I can trust that support is well spent.
+
+## Story structure
+
+**1. Setup: the near-loss of BGSO**
+- Open with the outgoing president's quote to show how serious the situation was.
+- Briefly describe spring 2026: graduating E-Board, no election, no handoff.
+- Key point: BGSO's survival depends on each new group of leaders.
+
+**2. Conflict: the informational obstacles**
+- Explain why students hesitated: timing (asked in April), fear of the unknown, and no shadowing or gradual takeover.
+- Describe what I had to figure out alone: who the advisors are, which trainings are required, how funding works, and how to build a full E-Board over the summer.
+- Transition: "Here is what I wish I'd had."
+
+**3. Resolution, part 1: who to know (Resource Map)**
+- The "yellow brick road" sketch: five sequential steps with key contacts, from the faculty advisor through CMBAA advisors, required trainings, the JFC advisor, and the Office of Student Involvement and Traditions.
+- Ends in a peer network of club leads (SPIRIT, NSBE, AfroGSA, LGSA, YALA), relationships to keep building rather than a one-time step.
+
+**4. Resolution, part 2: how the money works (Money Map)**
+- A Sankey-style flow of 2026–27 funding: $9,650 confirmed from JFC, CMBAA, General Motors, and Fidelity Charity Fund, plus a $4,500 Giving Day goal (December 1).
+- Shows spending so far ($1,500 on a happy hour, orchard trip, and bowling event) and the $8,150 still available.
+- Message: BGSO has real resources, and a new treasurer can see exactly where they come from.
+
+**5. Resolution, part 3: when it happens (Transition Timeline)**
+- A timeline of the new leadership transition:
+  - **Early March 2027 (before spring break):** leadership notice sent two weeks before the election
+  - **Two weeks later:** election held for the 2027–28 E-Board
+  - **After spring break:** new E-Board shadows the outgoing E-Board
+  - **Late April / early May:** handoff event, planned by the new E-Board while the outgoing board is still on campus
+  - **May:** new E-Board meets with CMBAA advisors and the faculty advisor
+- Contrast with spring 2026: what was missing then is now built into the calendar.
+
+**6. Call to action**
+- For future leaders: use this guide, and consider running.
+- For current members and advisors: support the election timeline so the handoff happens every year.
+- Close by returning to the opening quote: BGSO doesn't have to exist "in a different form." It can keep existing as itself.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
