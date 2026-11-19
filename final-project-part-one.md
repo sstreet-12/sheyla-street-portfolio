@@ -46,7 +46,9 @@ Because BGSO's internal records are stored privately and contain member informat
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> In a few sentences, you should document how you plan on completing your final project.
+
+I will build this project in three stages. First, I compiled BGSO's internal records and public CMU sources into two structured tables (one for the resource map, one for the money map). Second, I digitally sketched the visualizations to make them feel approachable and personal for incoming BGSO leaders: a "yellow brick road" resource map showing who to connect with and in what order, and a Sankey-style "money map" showing how funding flows into BGSO and out to events. Third, I will refine these sketches based on feedback and combine them into a final data story in [tool ex: Shorthand], published through this GitHub portfolio. The final audience is future BGSO officers, so the story will double as an onboarding guide they can return to.
 
 Text here...
 
