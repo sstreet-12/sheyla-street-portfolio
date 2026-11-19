@@ -1,0 +1,9 @@
+flow_id,direction,source_or_use,category,amount_usd,status,month,notes,source
+F01,income,Joint Funding Committee (JFC),student government allocation,5000,confirmed,,Annual allocation for 2026-27,BGSO budget records (private); https://www.cmu.edu/stugov/sbvpf/funding.html
+F02,income,Carnegie Mellon Black Alumni Association (CMBAA),alumni support,2500,confirmed,,,BGSO budget records (private)
+F03,income,General Motors,corporate sponsor,2000,confirmed,,,BGSO budget records (private)
+F04,income,Fidelity Charity Fund,donation,150,confirmed,,,BGSO budget records (private)
+F05,income,CMU Giving Day donors,donation,4500,goal (pending),December,Giving Day is Dec 1; amount is the fundraising goal,BGSO fundraising plan (private)
+F06,expense,Happy Hour,social event,350,spent,September,,BGSO budget records (private)
+F07,expense,Soergel Orchards trip,social event,150,spent,October,Rental car + snacks,BGSO budget records (private)
+F08,expense,Bowling event,social event,1000,spent,November,,BGSO budget records (private)

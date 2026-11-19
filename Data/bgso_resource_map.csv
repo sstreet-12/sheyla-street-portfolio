@@ -1,0 +1,15 @@
+step,resource_id,name,role,affiliation,category,priority,map_element,contact_method,academic_year,source,source_url
+1,R01,Ms. Shernell,BGSO Faculty Advisor,Center for Student Diversity and Inclusion (CSDI),advisor,primary,gold star,Schedule meeting through CSDI,2026-27,BGSO internal records (private),https://www.cmu.edu/student-diversity/
+2,R02,Michael Thomas,CMBAA Advisor,Carnegie Mellon Black Alumni Association (CMBAA),advisor,primary,gold star,Introduction through BGSO officers,2026-27,BGSO internal records (private),
+2,R03,Stephanie Kumi,CMBAA Advisor (new),Carnegie Mellon Black Alumni Association (CMBAA),advisor,secondary,gold star (sub-contact),Introduction through Michael Thomas,2026-27,BGSO internal records (private),
+2,R04,Nahom Mossazghi,CMBAA Advisor (new),Carnegie Mellon Black Alumni Association (CMBAA),advisor,secondary,gold star (sub-contact),Introduction through Michael Thomas,2026-27,BGSO internal records (private),
+2,R05,Cherlisa Tarpeh,CMBAA Student Engagement Director,Carnegie Mellon Black Alumni Association (CMBAA),advisor,primary,gold star,Introduction through BGSO officers,2026-27,BGSO internal records (private),
+3,R06,REACH Training,Required officer training,Tartan Connect,training,primary,gold star,Complete online in Tartan Connect,2026-27,Tartan Connect,
+3,R07,Authorized Signer Training,Required training for officers who approve spending,Tartan Connect,training,primary,gold star,Complete online in Tartan Connect,2026-27,Tartan Connect,https://www.cmu.edu/student-affairs/sit/student-org-resources/financial/index.html
+4,R08,Claire Kim,Joint Funding Committee (JFC) Advisor,Student Government – Joint Funding Committee,funding,primary,gold star,Assigned JFC advisor; general finance questions to StudentOrgFinance@andrew.cmu.edu,2026-27,BGSO internal records (private); Student Government JFC website,https://www.cmu.edu/stugov/sbvpf/funding.html
+5,R09,Yvette Harewood,Financial Advisor,Office of Student Involvement and Traditions (SIT),funding,primary,gold star,StudentOrgFinance@andrew.cmu.edu or SIT finance meeting request,2026-27,BGSO internal records (private); SIT website,https://www.cmu.edu/student-affairs/sit/student-org-resources/forms.html#finance
+6,R10,SPIRIT,Undergraduate Black Student Union,Student organization,peer organization,ongoing,hub satellite,Contact current club lead,2026-27,BGSO internal records (private),
+6,R11,NSBE,National Society of Black Engineers (CMU chapter),Student organization,peer organization,ongoing,hub satellite,Contact current club lead,2026-27,BGSO internal records (private),
+6,R12,AfroGSA,Peer graduate student organization,Student organization,peer organization,ongoing,hub satellite,Contact current club lead,2026-27,BGSO internal records (private),
+6,R13,LGSA,Peer graduate student organization,Student organization,peer organization,ongoing,hub satellite,Contact current club lead,2026-27,BGSO internal records (private),
+6,R14,YALA,Peer student organization,Student organization,peer organization,ongoing,hub satellite,Contact current club lead,2026-27,BGSO internal records (private),
