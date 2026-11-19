@@ -85,7 +85,7 @@ I will build this project in three stages. First, I compiled BGSO's internal rec
 Text here...
 
 ## References
-_List any references you used here._
+_Data references listed under Data Secion._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Claude to help me get ideas for create visualization ideas. Claude also helped me to turn my hand written sketches into digital creations. Finally Claude helped make readme file for my data tables._
